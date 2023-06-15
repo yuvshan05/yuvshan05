@@ -1,4 +1,4 @@
-<h1 align="center"> hey i am Yuvraj Shandilya</h1>
+<h1 align="center"> Hey i am Yuvraj Shandilya</h1>
 <h3 align="center">Transforming zeros and ones into meaningful solutions.</h3>
 # 💫 About Me:
 🔭 I’m currently working in machine learning<br>🌱 I’m currently learning machine learning and web development<br>
