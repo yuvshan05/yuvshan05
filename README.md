@@ -1,4 +1,4 @@
-<h1 align="center"> Hey i am Yuvraj Shandilya</h1>
+**<h1 align="center"> Hey i am Yuvraj Shandilya</h1>
 <h3 align="center">Transforming zeros and ones into meaningful solutions.</h3>
 # 💫 About Me:
 🔭 I’m currently working in machine learning<br>🌱 I’m currently learning machine learning and web development<br>
@@ -21,3 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=yuvshan05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
